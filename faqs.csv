@@ -1,0 +1,5 @@
+question,answer
+"What is LangChain?","LangChain is a framework for building LLM-powered apps."
+"What is RAG?","RAG stands for Retrieval-Augmented Generation. It combines LLMs with external knowledge."
+"What is ChromaDB?","ChromaDB is a vector database for storing and searching embeddings."
+"What is an LLM?","LLM stands for Large Language Model."
